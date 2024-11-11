@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "eresponseservices/mastercard-sdk-core-php": "dev-feature/DLAB-9932"
+        "eresponseservices/mastercard-sdk-core-php": "1.5.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.5"
