@@ -1,7 +1,7 @@
 {
     "name": "eresponseservices/mastercard-mastercom-php",
     "description": "This is the api for mastercom",
-    "version": "6.0.2",
+    "version": "6.1.0",
     "license": "BSD-2-Clause",
     "repositories": [{
         "type": "composer",
